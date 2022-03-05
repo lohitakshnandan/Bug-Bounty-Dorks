@@ -1008,7 +1008,7 @@ zen_tkn
 zen_token
 ```
 
-## Shodam Dorks
+## Shodan Dorks
 
 ```
 ssl:"target.com" http.html:"Login, username, password"
